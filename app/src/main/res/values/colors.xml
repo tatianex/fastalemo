@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#F8C119</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#FBC622</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="even_category">#F8E9BC</color>
+
+    <!-- Background color for the family members category -->
+    <color name="odd_category">#FBF3D8</color>
+
+    <!-- Background color for the list -->
+    <color name="background">#FFFCF2</color>
+</resources>
